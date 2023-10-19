@@ -4,7 +4,6 @@ title:  "Expressões Regulares"
 date:   2023-10-19 19:23:00 -0300
 categories: jekyll update
 ---
-## Expressões Regulares
 
 __*Expressão regular:*__ Método formal de se especificar um padrão de texto
 
