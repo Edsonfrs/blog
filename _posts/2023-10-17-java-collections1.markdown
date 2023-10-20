@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Java Collections!"
-date:   2023-09-24 13:26 -0300
+date:   2023-10-17 13:26 -0300
 categories: jekyll update
 ---
 ## Java collection ou API de Collections do Java
