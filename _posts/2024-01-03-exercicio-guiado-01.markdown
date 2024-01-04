@@ -30,15 +30,13 @@ categories: jekyll update
 
 3. Você planeja instalar uma distribuição Linux em um novo ambiente. Cite quatro coisas a se considerar na escolha de uma distribuição. 
 
-Os pontos capitais que eu analisaria nesse cenário seriam os seguintes: 
-	
-- Objetivos e uso pretendido: A determinação do uso do sistema e seus propósitos é essêncial para a determinar qual a distribuição mais aderente àquela necessidade. 
+	* Objetivos e uso pretendido: A determinação do uso do sistema e seus propósitos é essêncial para a determinar qual a distribuição mais aderente àquela necessidade. 
 
-- Requisitos de hardware: Estabelecer qual hardware estará disponivel para o sistema é outro fator importante para que se possa realizar uma boa escolha. Se o sistema será um desktop ou um servidor nos dará um norte para sabermos qual o hardware que suportará nosso sistema. 
+	* Requisitos de hardware: Estabelecer qual hardware estará disponivel para o sistema é outro fator importante para que se possa realizar uma boa escolha. Se o sistema será um desktop ou um servidor nos dará um norte para sabermos qual o hardware que suportará nosso sistema. 
 	
-- Ciclo de lançamento e suporte: A avaliação do ciclo de lançamento da distribuição é o que nos dirá qual será o ritmo das atualizações do nosso sistema. Um sistema com ataulizações mais constantes ou mais espaçadas. Para servidores uma versão LTS com certeza. 
+	* Ciclo de lançamento e suporte: A avaliação do ciclo de lançamento da distribuição é o que nos dirá qual será o ritmo das atualizações do nosso sistema. Um sistema com ataulizações mais constantes ou mais espaçadas. Para servidores uma versão LTS com certeza. 
 
-- Comunidade e suporte: Devemos considerar o fator "comunidade". Uma comunidade ativa pode oferecer amplo suporte, documentação extensa, fóruns de discussão e recursos para ajudar a solucionar problemas. Isso é especialmente crucial para novos usuários ou para ambientes nos quais o suporte é fundamental.
+	* Comunidade e suporte: Devemos considerar o fator "comunidade". Uma comunidade ativa pode oferecer amplo suporte, documentação extensa, fóruns de discussão e recursos para ajudar a solucionar problemas. Isso é especialmente crucial para novos usuários ou para ambientes nos quais o suporte é fundamental.
 
 
 
